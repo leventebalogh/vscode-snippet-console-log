@@ -1,0 +1,11 @@
+{
+    "Console Log": {
+		"prefix": "console.log",
+		"body": [
+			"console.log('------------------------------------');",
+			"console.log($0);",
+			"console.log('------------------------------------');"
+		],
+		"description": "Adds a nice console log statement, with two separator lines so it is easier to spot in the console."
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "name": "console.log() snippet with separator lines",
+    "publisher": "leventebalogh",
+    "description": "A trivial but useful console.log() snippet for VS Code, which adds two separator lines around your comment.",
+    "version": "0.1.0",
+    "engines": { "vscode": "0.10.x" },
+    "categories": ["Snippets"],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/javascript.json"
+            }
+        ]
+    }
+}

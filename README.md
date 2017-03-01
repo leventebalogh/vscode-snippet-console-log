@@ -5,7 +5,7 @@ your logs if you have a lot of other logs in the console, or if they are hard to
 ![Example console.log() snippet for VS Code](./assets/console.log.snippet.gif)
 
 ## Install
-
+Just got to extensions (`Shift+Cmd+X`), and type `console.log` in the search bar. Install the extension and click `Reload`.
 
 ## Displaying your snippets as first suggestions
 As you can see in the example on the top, the snippets appear as the first suggestions on autocomplete for me.

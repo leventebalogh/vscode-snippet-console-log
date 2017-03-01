@@ -1,10 +1,11 @@
 # console.log() snippet for VS Code
 This dumb widget is only adding the following trivial (but for me pretty useful) snippet to VS Code:
+The only difference in this snippet is that it adds those separator lines which can make it easier to spot
+your logs if you have a lot of other logs in the console, or if they are hard to filter.
 
 ![Example console.log() snippet for VS Code](./assets/console.log.snippet.gif)
 
 ## Install
-
 
 
 ## Displaying your snippets as first suggestions
